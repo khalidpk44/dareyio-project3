@@ -13,4 +13,8 @@ npm init
 npm install express
 npm install dotenv
 npm install mongoose
+npx create-react-app client
+npm install concurrently --save-dev
+npm install nodemon --save-dev
+
 node index.js
